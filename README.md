@@ -1,7 +1,23 @@
-# awesome-useless
+# awesome-useless (a curiosity cabinet)
+
 A curated list of useless works, resources, communities, websites, things (a.k.a. a web curiosity cabinet)
 
+Creative masterpieces; fun side of programming; just for fun :smile:
+
 > Our definition of _"doing useless things"_ is to _"use skills and invest time or other resources to create useless things"_
+
+## Websites
+
+* https://www.uselessfacts.net/
+* https://theuselessweb.com/
+* https://github.com/scriptex/awesome-useless-websites
+
+## Coding
+
+* [IOCCC](https://www.ioccc.org/): _The International Obfuscated C Code Contest_ is a community of very talented developers that makes useless things with a very high level of complexity
+* https://github.com/mamokaze/useless-filler-codes: codes that do nothing
+* [sapin.c](https://github.com/moul/junk/blob/master/c/sapin/sapin.withkorfu.c): a christmas tree generator looking like a christmas tree itself
+* [quine-relay](https://github.com/mame/quine-relay): An uroboros program with 100+ programming languages
 
 ## People and communities
 
@@ -15,3 +31,4 @@ A curated list of useless works, resources, communities, websites, things (a.k.a
   * [Ultreme Publishing](https://ultre.me/publishing): the book publishing section of ultreme, focusing on curiosity books and randomly generated books
   * [Ultreme Coding](https://github.com/ultreme): the coding section of ultreme, doing useless code everyday
 * [Millipede community](https://github.com/getmillipede): a community of developers trying to make as much implementations as possible of an ascii-art millipede
+* [TPYO Lang](https://github.com/tpyolang): people trying to make typography generators accessible to everyone
