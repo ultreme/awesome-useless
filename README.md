@@ -6,6 +6,15 @@ Creative masterpieces; fun side of programming; just for fun :smile:
 
 > Our definition of _"doing useless things"_ is to _"use skills and invest time or other resources to create useless things"_
 
+## Quotes
+
+* > It is a very sad thing that nowadays there is so little useless information. **Oscar Wilde**
+* > Music is essentially useless, as is life. **George Santayana**
+* > All art is quite useless. **Oscar Wilde**
+* > It is better, of course, to know useless things, that to know nothing. **Lucius Annaeus Seneca**
+* > If you can live a perfectly useless afternoon in a perfectly useless manner, you have learned how to live. **Lin Yutang**
+* > Failure was my biggest fear. So I came up with a setup that would guarantee success 100% of the time. With my setup, it would be nearly impossible to fail. Instead of trying to succeed, I was going to try to build things that would fail. **Simone Giertz**
+
 ## Websites
 
 * https://www.uselessfacts.net/
